@@ -1,0 +1,45 @@
+.leftNav{
+	float: left;
+    width: 20%;
+    padding: 20px;
+}
+
+.leftNav div{
+    padding: 8px;
+    border-bottom: grey solid 1px;
+}
+
+.leftNav label{
+    padding: 3px;
+    display: block;
+}
+
+.leftNav div:last-child{
+    border:none;
+}
+
+.topNav{
+	padding-bottom:  20px;
+}
+
+.clear{
+	
+}
+
+html {
+	height: 100%
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0
+}
+
+#map-canvas {
+	height: 100%
+}
+
+.heading{
+    text-align: center;
+}
